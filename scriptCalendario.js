@@ -1,4 +1,4 @@
-const CALENDARIOJSON = "https://raw.githubusercontent.com/PabloRamosAguilar/paginawebManuelPablo2-DAW/main/calendario.JSON";
+const CALENDARIOJSON = "https://raw.githubusercontent.com/PabloRamosAguilar/PaginaDualManuelPablo2-DAW/main/calendario.JSON";
 
 const fechaescribir = document.getElementById("fechaHoy");
 let fecha = new Date();
