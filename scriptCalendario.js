@@ -21,14 +21,12 @@ xmlhttp.onreadystatechange = function () {
 
 function show() {
     document.getElementById("L0").style.visibility = "visible";
-    document.getElementById("L32").style.visibility = "visible";
     document.getElementById("L33").style.visibility = "visible";
     document.getElementById("L34").style.visibility = "visible";
 }
 
 function hide() {
     document.getElementById("L0").style.visibility = "hidden";
-    document.getElementById("L32").style.visibility = "hidden";
     document.getElementById("L33").style.visibility = "hidden";
     document.getElementById("L34").style.visibility = "hidden";
 }
@@ -51,8 +49,6 @@ function pintarEvento(Evento) {
 
         temporalobjeto.innerHTML = objeto.dia;
         temporalevento.innerHTML = objeto.evento;
-        temporalevento.setAttribute("target", "_blank");
-        temporalevento.setAttribute("href", objeto.link);
 
         if (objeto.dia < fecha.getDate()) {
             document.getElementById("L" + counter).style.backgroundColor = "pink";
