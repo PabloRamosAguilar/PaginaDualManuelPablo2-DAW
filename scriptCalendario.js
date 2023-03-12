@@ -21,12 +21,14 @@ xmlhttp.onreadystatechange = function () {
 
 function show() {
     document.getElementById("L0").style.visibility = "visible";
+    document.getElementById("L1").style.visibility = "visible";
     document.getElementById("L33").style.visibility = "visible";
     document.getElementById("L34").style.visibility = "visible";
 }
 
 function hide() {
     document.getElementById("L0").style.visibility = "hidden";
+     document.getElementById("L1").style.visibility = "hidden";
     document.getElementById("L33").style.visibility = "hidden";
     document.getElementById("L34").style.visibility = "hidden";
 }
