@@ -1,6 +1,6 @@
 [{
-        "dia": "30",
-        "evento": "Último día de Noviembre",
+        "dia": "28",
+        "evento": "Último día de Febrero",
         "link": ""
     },
     {
@@ -25,12 +25,12 @@
     },
     {
         "dia": "5",
-        "evento": "",
+        "evento": "Cerrado",
         "link": ""
     },
     {
         "dia": "6",
-        "evento": "Día de la Constitución",
+        "evento": "Cerrado",
         "link": ""
     },
     {
@@ -60,12 +60,12 @@
     },
     {
         "dia": "12",
-        "evento": "",
+        "evento": "Cerrado",
         "link": ""
     },
     {
         "dia": "13",
-        "evento": "",
+        "evento": "Cerrado",
         "link": ""
     },
     {
@@ -95,12 +95,12 @@
     },
     {
         "dia": "19",
-        "evento": "",
+        "evento": "Cerrado",
         "link": ""
     },
     {
         "dia": "20",
-        "evento": "",
+        "evento": "Cerrado",
         "link": ""
     },
     {
@@ -120,22 +120,22 @@
     },
     {
         "dia": "24",
-        "evento": "Nochebuena",
+        "evento": "",
         "link": ""
     },
     {
         "dia": "25",
-        "evento": "Navidad",
+        "evento": "",
         "link": ""
     },
     {
         "dia": "26",
-        "evento": "",
+        "evento": "Cerrado",
         "link": ""
     },
     {
         "dia": "27",
-        "evento": "",
+        "evento": "Cerrado",
         "link": ""
     },
     {
@@ -155,22 +155,22 @@
     },
     {
         "dia": "31",
-        "evento": "Nochevieja",
+        "evento": "",
         "link": ""
     },
     {
         "dia": "1",
-        "evento": "Primer dia Enero - Año Nuevo",
+        "evento": "",
         "link": ""
     },
     {
         "dia": "2",
-        "evento": "Segundo dia Enero",
+        "evento": "Cerrado",
         "link": ""
     },
     {
         "dia": "3",
-        "evento": "Tercer dia Enero",
+        "evento": "Cerrado",
         "link": ""
     }
 ]
