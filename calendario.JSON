@@ -1,5 +1,10 @@
 [{
         "dia": "28",
+        "evento": "",
+        "link": ""
+    },
+    {
+        "dia": "28",
         "evento": "Último día de Febrero",
         "link": ""
     },
@@ -20,7 +25,7 @@
     },
     {
         "dia": "4",
-        "evento": "",
+        "evento": "Cerrado",
         "link": ""
     },
     {
@@ -30,7 +35,7 @@
     },
     {
         "dia": "6",
-        "evento": "Cerrado",
+        "evento": "",
         "link": ""
     },
     {
@@ -55,7 +60,7 @@
     },
     {
         "dia": "11",
-        "evento": "",
+        "evento": "Cerrado",
         "link": ""
     },
     {
@@ -65,7 +70,7 @@
     },
     {
         "dia": "13",
-        "evento": "Cerrado",
+        "evento": "",
         "link": ""
     },
     {
@@ -90,7 +95,7 @@
     },
     {
         "dia": "18",
-        "evento": "",
+        "evento": "Cerrado",
         "link": ""
     },
     {
@@ -100,7 +105,7 @@
     },
     {
         "dia": "20",
-        "evento": "Cerrado",
+        "evento": "",
         "link": ""
     },
     {
@@ -125,7 +130,7 @@
     },
     {
         "dia": "25",
-        "evento": "",
+        "evento": "Cerrado",
         "link": ""
     },
     {
@@ -135,7 +140,7 @@
     },
     {
         "dia": "27",
-        "evento": "Cerrado",
+        "evento": "",
         "link": ""
     },
     {
@@ -160,16 +165,11 @@
     },
     {
         "dia": "1",
-        "evento": "",
-        "link": ""
-    },
-    {
-        "dia": "2",
         "evento": "Cerrado",
         "link": ""
     },
     {
-        "dia": "3",
+        "dia": "2",
         "evento": "Cerrado",
         "link": ""
     }
